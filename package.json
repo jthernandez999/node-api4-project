@@ -26,5 +26,8 @@
     "express": "^4.17.1",
     "nanoid": "^3.1.30",
     "nodemon": "^2.0.14"
+  },
+  "devDependencies": {
+    "eslint": "^8.1.0"
   }
 }
